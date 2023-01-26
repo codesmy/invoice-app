@@ -23,10 +23,10 @@ header {
     min-height: 100%;
     min-width: 90px;
     flex-direction: column;
-    border-radius: 0 20px 20px 0;
+    border-radius: 0;
   }
   .branding {
-    border-radius: 0 20px 20px 0;
+    border-radius: 0;
     background-color: #7c5dfa;
     justify-content: center;
     padding: 24px;
